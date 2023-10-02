@@ -172,6 +172,7 @@ gulshan
 - [Sreerag] (https://github.com/srexrg)
 - [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
+- Jayesh Warke
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
 - [Idehen Gideon](https://github.com/gi3-14)
 - [Dohyun Kim](https://github.com/dohyundev)
